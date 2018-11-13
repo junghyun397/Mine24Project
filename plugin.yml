@@ -1,0 +1,257 @@
+name: Mine24Project
+main: junghyun.Main
+version: "1.0.0"
+api: ["1.0.0"]
+author: junghyun3459
+description: Mine24
+website: https://mine24.net/
+
+commands:
+  0 명령어 사용안내 --------------------:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  01 §e/월드 이동 <월드>§7 월드로 이동:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  02 §e/월드 축약 <축약자>§7 축약자 제작:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  03 §e/월드 잠금 <완전/공유/해제>§7 잠금처리:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  04 §e/월드 연장 <연장할 주>§7 사용 기한 연장:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  05 §e/월드 확장 <확장할 크기>§7 크기 확장:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  06 §e/월드 공유 <플레이어>§7 공유자 추가:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  07 §e/월드 추방 <플레이어>§7 공유 해제:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  08 §e/월드 스폰설정§7 월드 스폰을 설정:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  09 §e/월드 공유초기화§7 공유자 초기화:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  10 §e/월드 정보 <월드 이름>§7 정보 확인:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  11 §e/경제 내돈§7 소유 OP 확인:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  12 §e/경제 조회 <플레이어>§7 소유 OP 확인:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  13 §e/경제 송금 <플레이어> <금액>§7 송금:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  14 §e/이동 상점§7 상점으로 이동:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  15 §e/스폰§7 스폰으로 이동:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  16 §e/인원§7 현재 접속중인 인원 확인:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  17 §e/수령§7 웹상점에서 주문한 아이템 수령:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  18 §e/인증 <이메일>§7 이메일 인증 진행:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  50 §e명령어.메인.한국§7 접속해보세요.:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  51 --------------------:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  52 Mine24.net 24시간 서버 접속을 환영합니다.:
+    description: 명령어
+    usage: "/명령어"
+  53 여기를 터치하여 더 많은 명령어 목록을 확인:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  54 서버에서 즐거운 시간 보내시기 바랍니다.:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  55 --------------------:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  56 --------------------:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  57 Mine24.net 24시간 서버 접속을 환영합니다.:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  58 여기를 터치하여 더 많은 명령어 목록을 확인:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  59 서버에서 즐거운 시간 보내시기 바랍니다.:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  60 --------------------:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  61 --------------------:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  62 Mine24.net 24시간 서버 접속을 환영합니다.:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  63 여기를 터치하여 더 많은 명령어 목록을 확인:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  64 서버에서 즐거운 시간 보내시기 바랍니다.:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  65 --------------------:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  b:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  k:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  i:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  l:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  bi:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  /:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  가입:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  로그인:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  비밀번호:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  경제:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  재생성:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  건너뛰기:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  튜토리얼:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  스폰:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  이동:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  선택:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  칭호지정:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  메시지:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  인원:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  월드:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  we:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  wes:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  삭제:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+    permission: mine24cmd
+  수령:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  인증:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+  재부팅:
+    description: 명령어
+    usage: "/명령어"
+    permission: mine24cmd
+permissions:
+  mine24cmd:
+    description: "명령어"
+    default: true
